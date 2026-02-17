@@ -1,13 +1,10 @@
-# Hello, I'm Hugo 👋  
-### Full-Stack Web Developer focused on modern web platforms, scalable UI systems and AI-assisted development
+# Hello, welcome to my GitHub 👋  
 
 I build production-ready applications using Angular, TypeScript and Node ecosystems, with strong attention to UX, performance and maintainable architecture.  
 Currently working with AI-assisted workflows to accelerate delivery and improve engineering quality.
 
----
 
-## 🚀 Skills
-
+## 🚀 My Skills
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,31 +43,20 @@ Currently working with AI-assisted workflows to accelerate delivery and improve 
 
 ---
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=hugosique&layout=compact&theme=tokyonight)
-
----
-
 ## 🧩 Projects
 
 ### Logistics & Warehouse App  
 Mobile and web solution for logistics operations, item tracking and QR code scanning built with Angular and Ionic.  
 🔗 https://github.com/your-repo
 
----
-
 ### Financial Education Platform  
 Interactive environment simulating stock market assets, financial operations and learning modules.  
 🔗 https://github.com/your-repo
 
----
 
 ### Enterprise Dashboard  
 Data-heavy business dashboards, KPI monitoring and workflow automation tools.  
 🔗 https://github.com/your-repo
-
----
 
 ### Full-Stack REST APIs  
 Backend services for authentication, integrations and business rule processing using Node and Nest.  
