@@ -10,40 +10,26 @@ I'm primarily focused on **TypeScript and Node.js ecosystems**, with strong expe
 
 ## 🧩 My Projects
 
-### 📦 Inventory System
+### 📦 [Inventory System](https://github.com/hugosique/inventory)
 Full-stack inventory management system built with **React and Fastify**, with automated testing using **Vitest and Playwright**.
 
-🔗 https://github.com/hugosique/inventory
-
-### 💰 Money Solver
+### 💰 [Money Solver](https://github.com/hugosique/app-money-solver)
 Personal finance application built with **NestJS**, applying **Clean Architecture and Domain-Driven Design (DDD)**.
 
-🔗 https://github.com/hugosique/app-money-solver
-
-### 🧱 OpenUI5 CRUD
+### 🧱 [OpenUI5 CRUD](https://github.com/hugosique/openui5-crud)
 Simple CRUD application built with **SAP OpenUI5**, exploring an enterprise-oriented frontend framework outside my usual stack.
 
-🔗 https://github.com/hugosique/openui5-crud
-
-### 📱 Offline To-Do List
+### 📱 [Offline To-Do List](https://github.com/hugosique/app-to-do-list-offline)
 Offline-first application built with **PouchDB and CouchDB**, demonstrating local persistence and data synchronization.
 
-🔗 https://github.com/hugosique/app-to-do-list-offline
-
-### 🌎 Countries List
+### 🌎 [Countries List](https://github.com/hugosique/countries-list-challenge)
 Simple frontend application consuming an external API to display and interact with country data.
 
-🔗 https://github.com/hugosique/countries-list-challenge
-
-### ✈️ Travel Landing Page
+### ✈️ [Travel Landing Page](https://github.com/hugosique/landing-page-example)
 Frontend application combining a travel-themed landing page with CRUD functionality.
 
-🔗 https://github.com/hugosique/landing-page-example
-
-### 🐦 Flapply Bird
+### 🐦 [Flapply Bird](https://github.com/hugosique/flappyBirdGameProject)
 Browser game inspired by Flappy Bird, focused on frontend development, game logic and user interaction.
-
-🔗 https://github.com/hugosique/flapply-bird
 
 ---
 
