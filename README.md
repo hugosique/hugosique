@@ -1,26 +1,49 @@
-# Hello, welcome to my GitHub 👋  
+# Hello, welcome to my GitHub 👋
 
-I build production-ready applications using Angular, TypeScript and Node ecosystems, with strong attention to UX, performance and maintainable architecture.  
-Currently working with AI-assisted workflows to accelerate delivery and improve engineering quality.
+I'm a Software Developer with experience building applications across **frontend, backend, mobile, data and infrastructure**.
+
+Throughout my career, I've gone through many stages of learning — from traditional software development to the current **AI-assisted development era**. This experience has helped me build a solid foundation in software engineering, while continuously learning and applying concepts such as **Clean Architecture, Domain-Driven Design, testing and containerization** in real projects.
+
+I'm primarily focused on **TypeScript and Node.js ecosystems**, with strong experience in **Angular** and growing experience with other technologies and architectural approaches.
+
+---
 
 ## 🧩 My Projects
 
-### Logistics & Warehouse App  
-Mobile and web solution for logistics operations, item tracking and QR code scanning built with Angular and Ionic.  
-🔗 https://github.com/your-repo
+### 📦 Inventory System
+Full-stack inventory management system built with **React and Fastify**, with automated testing using **Vitest and Playwright**.
 
-### Financial Education Platform  
-Interactive environment simulating stock market assets, financial operations and learning modules.  
-🔗 https://github.com/your-repo
+🔗 https://github.com/hugosique/inventory
 
+### 💰 Money Solver
+Personal finance application built with **NestJS**, applying **Clean Architecture and Domain-Driven Design (DDD)**.
 
-### Enterprise Dashboard  
-Data-heavy business dashboards, KPI monitoring and workflow automation tools.  
-🔗 https://github.com/your-repo
+🔗 https://github.com/hugosique/app-money-solver
 
-### Full-Stack REST APIs  
-Backend services for authentication, integrations and business rule processing using Node and Nest.  
-🔗 https://github.com/your-repo
+### 🧱 OpenUI5 CRUD
+Simple CRUD application built with **SAP OpenUI5**, exploring an enterprise-oriented frontend framework outside my usual stack.
+
+🔗 https://github.com/hugosique/openui5-crud
+
+### 📱 Offline To-Do List
+Offline-first application built with **PouchDB and CouchDB**, demonstrating local persistence and data synchronization.
+
+🔗 https://github.com/hugosique/app-to-do-list-offline
+
+### 🌎 Countries List
+Simple frontend application consuming an external API to display and interact with country data.
+
+🔗 https://github.com/hugosique/countries-list-challenge
+
+### ✈️ Travel Landing Page
+Frontend application combining a travel-themed landing page with CRUD functionality.
+
+🔗 https://github.com/hugosique/landing-page-example
+
+### 🐦 Flapply Bird
+Browser game inspired by Flappy Bird, focused on frontend development, game logic and user interaction.
+
+🔗 https://github.com/hugosique/flapply-bird
 
 ---
 
